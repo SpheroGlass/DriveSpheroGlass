@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpheroGlass</string>
+    <string name="action_settings">Settings</string>
+    <string name="connecting">Connecting&#8230;</string>
+    <string name="connection_ok">Connected</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="connection_disconnected">Disconnected</string>
+    <string name="show_spheroglass_voice_trigger">drive sphero</string>
+    <string name="bluetooth_disabled">Bluetooth disabled</string>
+    
+</resources>
