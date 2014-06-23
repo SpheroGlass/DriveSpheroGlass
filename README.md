@@ -10,12 +10,15 @@ Mode 1:
 
 * Pair Glass and Sphero (see below)
 * Install DriveSpheroGlass apk available at https://github.com/SpheroGlass/DriveSpheroGlass/blob/master/target/DriveSpheroGlass.apk?raw=true
+* i.e.: adb install DriveSpheroGlass.apk
 
 
 Mode 2:
 
 * Pair Glass and Sphero (see below)
 * Clone this project: git@github.com:SpheroGlass/DriveSpheroGlass.git
+* Clone dependecy project: git@github.com:pif/glass-progress-bar.git
+* Be sure that the DriveSpheroGlass project has the glass-progress-bar as Library Project Dependency (Preferences > Android > Library > Add...)
 * Build and run the application in your Google Glass
 
 
